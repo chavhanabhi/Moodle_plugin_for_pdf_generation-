@@ -1,0 +1,113 @@
+body {
+    font-family: verdana, helvetica, sans-serif;
+    background-color: #fff;
+    color: rgb(0, 0, 0);
+}
+
+
+.iconDetails {
+    text-align:center;
+   float:left; 
+   height:20%;
+   width: 50%; 
+} 
+.container2 {
+       width:100%;
+       height:auto;
+       padding:1%;
+}
+
+.question {
+    /*border: 1px solid rgb(9, 209, 159);*/
+    margin: 0px;
+    padding: 0px 0px;
+}
+
+.question h3 {
+    font-weight: normal;
+    font-size: 125%;
+}
+/*
+.question ul {
+    list-style-type: none;
+}
+*/
+.truefalse.frames {
+    font-size: 0;
+}
+
+.li{
+        display: flex;
+        width: 100px;
+        font-size: 15px;
+        margin-top: -4px;
+        margin-bottom: -4px;
+}
+
+
+.heading{
+    text-align: center;
+    float: right;    
+}
+
+.image{
+    float: left;
+}
+
+.design{
+    width: 20%;
+    font-size: 20px;
+    float: left;
+}
+
+.design1{
+    font-size: 20px;
+    float: right;
+}
+
+
+.item p{
+    display: inline-block;
+  }
+  .leftContent{
+    text-align: left;
+    float: left;
+    width: 95%;
+  }
+  .rightContent{
+    text-align: right;
+    float: right;
+    width: 5%
+  }
+span{
+    text-align: right;
+    float: right;
+    margin-left: 90px;
+    white-space: 10px;
+}
+
+.qtable{
+    
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+.qformmis{
+    width: 100%;
+    font-size: x-large;
+    height: 20px;
+    border:1px solid rgb(0, 0, 0);
+    border-collapse: collapse;
+}
+.thright{
+    text-align:left;
+    width:40%;
+}
+.thleft{
+    text-align:left;
+    width:50%;
+
+}
+hr.new4 {
+    color: #eb2121;
+  }
+  
